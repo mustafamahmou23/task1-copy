@@ -85,7 +85,6 @@ body {
   .two:hover {
     box-shadow: 10px 10px 5px 5px grey;
     transition: all 200ms cubic-bezier(0, 0, 0, 0.56);
-    /*  تأثير الإنتقال   */
   }
   .three:hover {
     box-shadow: 10px 10px 5px 5px grey;
